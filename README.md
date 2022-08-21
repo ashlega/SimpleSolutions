@@ -18,3 +18,5 @@ A set of solutions for Power Platform which introduce basic "business" funcitona
 - Automatically create support requests for incoming emails
 - And, of course, use Dataverse Outlook integration for outgoing emails when replying to the support requests
 
+There are some addtional details here:
+https://www.itaintboring.com/power-platform/simple-marketing-v1-0-0-1/
